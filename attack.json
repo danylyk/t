@@ -1218,7 +1218,7 @@
   ],
   "player": {
     "effector": {
-      "health": 6000,
+      "health": 16000,
       "properties": []
     },
     "main": {
@@ -1580,7 +1580,7 @@
       "ammo": [
         {
           "key": 0,
-          "value": 150
+          "value": 1150
         },
         {
           "key": 1,
