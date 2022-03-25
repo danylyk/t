@@ -8,18 +8,22 @@
       "id": "unit-1",
       "position": {"x": 0, "y": 0},
       "properties": [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
       ]
     },
     {
       "id": "unit-2",
       "position": {"x": 2, "y": 2},
       "properties": [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
       ]
     }
   ],
@@ -27,34 +31,42 @@
     "id": "player-1",
     "position": {"x": -2, "y": -2},
     "properties": [
-      {"key": 0, "value": 2},
-      {"key": 1, "value": 100},
-      {"key": 2, "value": 300}
+      [
+        {"key": 0, "value": 2},
+        {"key": 1, "value": 100},
+        {"key": 2, "value": 300}
+      ]
     ]
   },
   "inventory": [
     {
       "id": "item-1",
       "properties": [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
       ]
     },
     {
       "id": "item-2",
       "properties": [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
       ]
     },
     {
       "id": "item-3",
       "properties": [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
       ]
     }
   ]
