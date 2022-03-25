@@ -1,0 +1,287 @@
+{
+  "terrain": {
+    "size": 7
+  },
+  "units": [
+    {
+      "id": "Unit_Building_2x2_1x1",
+      "main": {
+        "position": { "x": -4, "y": 0 }
+      },
+      "unit": {
+        "effector": {
+          "health": 1000,
+          "properties": []
+        }
+      }
+    },
+    {
+      "id": "Unit_ShootBuilding_2x2_1x1",
+      "main": {
+        "position": { "x": -2, "y": 0 }
+      },
+      "unit": {
+        "effector": {
+          "health": 1200,
+          "properties": []
+        },
+        "attack": {
+          "properties": [
+            {
+              "key": 0,
+              "value": 4
+            }
+          ],
+          "affector": {
+            "settings": [
+              {
+                "key": 0,
+                "value": 3
+              },
+              {
+                "key": 1,
+                "value": 1.5
+              },
+              {
+                "key": 2,
+                "value": 1
+              },
+              {
+                "key": 3,
+                "value": 1
+              }
+            ],
+            "properties": [
+              {
+                "key": 0,
+                "value": 100
+              },
+              {
+                "key": 2,
+                "value": 0.1
+              }
+            ]
+          }
+        },
+        "ammo": [
+          {
+            "key": 0,
+            "value": 15
+          },
+          {
+            "key": 1,
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unit_DynamicAttack_1x1_1x1",
+      "main": {
+        "position": { "x": -2, "y": -5 }
+      },
+      "troop": {
+        "effector": {
+          "health": 1200,
+          "properties": []
+        },
+        "attack": {
+          "properties": [
+            {
+              "key": 0,
+              "value": 4
+            },
+            {
+              "key": 1,
+              "value": 1
+            }
+          ],
+          "affector": {
+            "settings": [
+              {
+                "key": 0,
+                "value": 3
+              },
+              {
+                "key": 1,
+                "value": 1.5
+              },
+              {
+                "key": 2,
+                "value": 1
+              },
+              {
+                "key": 3,
+                "value": 1
+              }
+            ],
+            "properties": [
+              {
+                "key": 0,
+                "value": 100
+              },
+              {
+                "key": 2,
+                "value": 0.1
+              }
+            ]
+          }
+        },
+        "ammo": [
+          {
+            "key": 0,
+            "value": 5
+          },
+          {
+            "key": 1,
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unit_DynamicAttack_1x1_1x1",
+      "main": {
+        "position": { "x": -2, "y": 5 }
+      },
+      "troop": {
+        "effector": {
+          "health": 1200,
+          "properties": []
+        },
+        "attack": {
+          "properties": [
+            {
+              "key": 0,
+              "value": 4
+            },
+            {
+              "key": 1,
+              "value": 5
+            }
+          ],
+          "affector": {
+            "settings": [
+              {
+                "key": 0,
+                "value": 3
+              },
+              {
+                "key": 1,
+                "value": 1.5
+              },
+              {
+                "key": 2,
+                "value": 1
+              },
+              {
+                "key": 3,
+                "value": 1
+              }
+            ],
+            "properties": [
+              {
+                "key": 0,
+                "value": 100
+              },
+              {
+                "key": 2,
+                "value": 0.1
+              }
+            ]
+          }
+        },
+        "ammo": [
+          {
+            "key": 0,
+            "value": 5
+          },
+          {
+            "key": 1,
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "Unit_Decoration_2x2_1x1",
+      "main": {
+        "position": { "x": 0, "y": 0 }
+      }
+    }
+  ],
+  "player": {
+    "effector": {
+      "health": 2000,
+      "properties": []
+    },
+    "main": {
+      "changer": "ItemChangerTestSimple",
+      "gateway": "GatewayTestSimple",
+      "position": { "x": 4, "y": -3 }
+    },
+    "skin": {
+      "id": "PlayerTestSkin",
+      "properties": []
+    },
+    "ability": {
+      "item": {
+        "id": "AbilityTestSimpleFireBomb",
+        "main": [
+        
+        ],
+        "super": {
+          "properties": [
+            {
+              "key": 0,
+              "value": 4
+            }
+          ],
+          "affector": {
+            "settings": [
+              {
+                "key": 0,
+                "value": 3
+              },
+              {
+                "key": 1,
+                "value": 1.5
+              },
+              {
+                "key": 2,
+                "value": 1
+              }
+            ],
+            "properties": [
+              {
+                "key": 0,
+                "value": 200
+              },
+              {
+                "key": 2,
+                "value": 0.1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "inventory": [
+    {
+      "id": "ItemTestSimpleFireBomb",
+      "properties": [
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ],
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      ]
+    }
+  ]
+}
