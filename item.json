@@ -6,7 +6,7 @@
   "amount": 31
   "attack": {
     "description": "Description for attack of item-1.",
-    "properties": [
+    "attributes": [
       {
         "title": "Main rocket"
         "properties": [
@@ -27,7 +27,7 @@
   },
   "super": {
     "description": "Description for super of item-1.",
-    "properties": [
+    "attributes": [
       {
         "title": "Main rocket"
         "properties": [
