@@ -3,35 +3,35 @@
   "title": "Item-1",
   "rarity": 0,
   "level": 3,
-  "amount": 31
+  "amount": 31,
   "attack": {
     "description": "Description for attack of item-1.",
     "attributes": [
       {
-        "title": "Main rocket"
+        "title": "Main rocket",
         "properties": [
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 0,
             "value": 10
           },
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 1,
             "value": 200
           }
         ]
       },
       {
-        "title": "Small sparks"
+        "title": "Small sparks",
         "properties": [
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 0,
             "value": 10
           },
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 1,
             "value": 200
           }
@@ -46,12 +46,12 @@
         "title": "Main rocket"
         "properties": [
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 0,
             "value": 10
           },
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 1,
             "value": 200
           }
@@ -61,12 +61,12 @@
         "title": "Small sparks"
         "properties": [
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 0,
             "value": 10
           },
           {
-            "title": "Property title"
+            "title": "Property title",
             "id": 1,
             "value": 200
           }
