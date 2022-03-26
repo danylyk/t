@@ -1,7 +1,17 @@
 {
-  "id": "Item-1",
+  "skins": [
+    {
+      "id": "Item-1-1",
+      "image": "Item-1-image-1",
+      "title": "Item-1-title-1"
+    },
+    {
+      "id": "Item-1-2"
+      "image": "Item-1-image-2",
+      "title": "Item-1-title-2"
+    }
+  ],
   "icon": "Item-1-icon",
-  "title": "Item-1",
   "rarity": 0,
   "level": 3,
   "amount": 31,
