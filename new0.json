@@ -269,7 +269,7 @@
   },
   "inventory": [
     {
-      "id": "ItemTestSimpleFireBomb",
+      "id": "Item-1",
       "properties": [
         [
           {"key": 0, "value": 2},
