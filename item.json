@@ -10,17 +10,31 @@
       {
         "title": "Main rocket"
         "properties": [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
+          {
+            "title": "Property title"
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title"
+            "id": 1,
+            "value": 200
+          }
         ]
       },
       {
         "title": "Small sparks"
         "properties": [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
+          {
+            "title": "Property title"
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title"
+            "id": 1,
+            "value": 200
+          }
         ]
       }
     ]
@@ -31,17 +45,31 @@
       {
         "title": "Main rocket"
         "properties": [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
+          {
+            "title": "Property title"
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title"
+            "id": 1,
+            "value": 200
+          }
         ]
       },
       {
         "title": "Small sparks"
         "properties": [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
+          {
+            "title": "Property title"
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title"
+            "id": 1,
+            "value": 200
+          }
         ]
       }
     ]
