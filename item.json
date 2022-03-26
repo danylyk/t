@@ -43,7 +43,7 @@
     "description": "Description for super of item-1.",
     "attributes": [
       {
-        "title": "Main rocket"
+        "title": "Main rocket",
         "properties": [
           {
             "title": "Property title",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "title": "Small sparks"
+        "title": "Small sparks",
         "properties": [
           {
             "title": "Property title",
