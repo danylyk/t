@@ -1,0 +1,49 @@
+{
+  "id": "Item-1",
+  "title": "Item-1"
+  "rarity": 0,
+  "level": 3,
+  "amount": 31
+  "attack": {
+    "description": "Description for attack of item-1.",
+    "properties": [
+      {
+        "title": "Main rocket"
+        "properties": [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      },
+      {
+        "title": "Small sparks"
+        "properties": [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      }
+    ]
+  },
+  "super": {
+    "description": "Description for super of item-1.",
+    "properties": [
+      {
+        "title": "Main rocket"
+        "properties": [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      },
+      {
+        "title": "Small sparks"
+        "properties": [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      }
+    ]
+  }
+}
