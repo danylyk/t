@@ -1,5 +1,6 @@
 {
   "id": "Item-1",
+  "icon": "Item-1-icon",
   "title": "Item-1",
   "rarity": 0,
   "level": 3,
