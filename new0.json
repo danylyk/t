@@ -272,7 +272,7 @@
       "id": "Item-1",
       "title": "Item-1"
       "rarity": 0,
-      "attack": [
+      "power": [
         [
           {"key": 0, "value": 2},
           {"key": 1, "value": 100},
