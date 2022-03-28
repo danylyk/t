@@ -1,6 +1,7 @@
 {
+  "id": "Player-1",
   "position": {"x": 0, "y": 0},
-  "attack": {
+  "power": {
     "description": "Description for attack of item-1.",
     "attributes": [
       {
@@ -35,7 +36,7 @@
       }
     ]
   },
-  "super": {
+  "ability": {
     "description": "Description for super of item-1.",
     "attributes": [
       {
