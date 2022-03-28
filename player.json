@@ -1,0 +1,73 @@
+{
+  "position": {"x": 0, "y": 0},
+  "attack": {
+    "description": "Description for attack of item-1.",
+    "attributes": [
+      {
+        "title": "Main rocket",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      },
+      {
+        "title": "Small sparks",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      }
+    ]
+  },
+  "super": {
+    "description": "Description for super of item-1.",
+    "attributes": [
+      {
+        "title": "Main rocket",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      },
+      {
+        "title": "Small sparks",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      }
+    ]
+  }
+}
