@@ -211,61 +211,52 @@
     }
   ],
   "player": {
-    "effector": {
-      "health": 2000,
-      "properties": []
-    },
-    "main": {
-      "changer": "ItemChangerTestSimple",
-      "gateway": "GatewayTestSimple",
-      "position": { "x": 4, "y": -3 }
-    },
-    "skin": {
-      "id": "PlayerTestSkin",
-      "properties": []
-    },
-    "ability": {
-      "item": {
-        "id": "AbilityTestSimpleFireBomb",
-        "main": [
-        
+    "id": "Player-1",
+    "position": { "x": 4, "y": -3 },
+    "properties": [
+      {"key": 0, "value": 2000},
+      {"key": 1, "value": 2}
+    ],
+    "item": {
+      "title": "Item-1",
+      "rarity": 1,
+      "power": [
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
         ],
-        "super": {
-          "properties": [
-            {
-              "key": 0,
-              "value": 4
-            }
-          ],
-          "affector": {
-            "settings": [
-              {
-                "key": 0,
-                "value": 3
-              },
-              {
-                "key": 1,
-                "value": 1.5
-              },
-              {
-                "key": 2,
-                "value": 1
-              }
-            ],
-            "properties": [
-              {
-                "key": 0,
-                "value": 200
-              },
-              {
-                "key": 2,
-                "value": 0.1
-              }
-            ]
-          }
-        }
-      }
-    }
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      ],
+      "super": [
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ],
+        [
+          {"key": 0, "value": 2},
+          {"key": 1, "value": 100},
+          {"key": 2, "value": 300}
+        ]
+      ]
+    },
+    "ability": [
+      [
+        {"key": 0, "value": 2},
+        {"key": 1, "value": 100},
+        {"key": 2, "value": 300}
+      ],
+      [
+        {"key": 0, "value": 2},
+        {"key": 1, "value": 100},
+        {"key": 2, "value": 300}
+      ]
+    ]
   },
   "inventory": [
     {
