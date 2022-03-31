@@ -6,7 +6,7 @@
     
   ],
   "player": {
-    "hero": "Player-1",
+    "hero": "Hero-1",
     "position": { "x": 4, "y": -3 },
     "skin": [
       {"key": 0, "value": 2000},
