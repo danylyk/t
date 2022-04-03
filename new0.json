@@ -13,43 +13,34 @@
       {"key": 1, "value": 2}
     ],
     "ability": [
-      [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
-      ],
-      [
-        {"key": 0, "value": 2},
-        {"key": 1, "value": 100},
-        {"key": 2, "value": 300}
-      ]
+      {
+        "properties": [
+           {"key": 2, "value": 3},
+           {"key": 4, "value": 3},
+           {"key": 6, "value": 9}
+        ]
+      }
     ],
     "item": {
       "title": "Item-1",
-      "rarity": 1,
+      "rarity": 0,
       "power": [
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ],
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ]
+        {
+          "properties": [
+             {"key": 2, "value": 3},
+             {"key": 4, "value": 3},
+             {"key": 6, "value": 9}
+          ]
+        }
       ],
       "super": [
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ],
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ]
+        {
+          "properties": [
+             {"key": 2, "value": 3},
+             {"key": 4, "value": 3},
+             {"key": 6, "value": 9}
+          ]
+        }
       ]
     }
   },
@@ -59,28 +50,22 @@
       "title": "Item-1",
       "rarity": 0,
       "power": [
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ],
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ]
+        {
+          "properties": [
+             {"key": 2, "value": 3},
+             {"key": 4, "value": 3},
+             {"key": 6, "value": 9}
+          ]
+        }
       ],
       "super": [
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ],
-        [
-          {"key": 0, "value": 2},
-          {"key": 1, "value": 100},
-          {"key": 2, "value": 300}
-        ]
+        {
+          "properties": [
+             {"key": 2, "value": 3},
+             {"key": 4, "value": 3},
+             {"key": 6, "value": 9}
+          ]
+        }
       ]
     }
   ]
