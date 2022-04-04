@@ -15,9 +15,10 @@
     "ability": [
       {
         "properties": [
-           {"key": 2, "value": 3},
-           {"key": 4, "value": 3},
-           {"key": 6, "value": 9}
+           {"key": 0, "value": 3},
+           {"key": 2, "value": 1.5},
+           {"key": 3, "value": 3},
+           {"key": 5, "value": 9}
         ]
       }
     ],
@@ -27,18 +28,20 @@
       "power": [
         {
           "properties": [
+             {"key": 0, "value": 3},
              {"key": 2, "value": 3},
-             {"key": 4, "value": 3},
-             {"key": 6, "value": 9}
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
           ]
         }
       ],
       "super": [
         {
           "properties": [
+             {"key": 0, "value": 3},
              {"key": 2, "value": 3},
-             {"key": 4, "value": 3},
-             {"key": 6, "value": 9}
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
           ]
         }
       ]
@@ -52,18 +55,20 @@
       "power": [
         {
           "properties": [
+             {"key": 0, "value": 3},
              {"key": 2, "value": 3},
-             {"key": 4, "value": 3},
-             {"key": 6, "value": 9}
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
           ]
         }
       ],
       "super": [
         {
           "properties": [
+             {"key": 0, "value": 3},
              {"key": 2, "value": 3},
-             {"key": 4, "value": 3},
-             {"key": 6, "value": 9}
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
           ]
         }
       ]
