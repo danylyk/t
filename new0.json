@@ -1,5 +1,6 @@
 {
-  "terrain": {
+  "landscape": {
+    "terrain": "Terrain-1",
     "size": 7
   },
   "units": [
