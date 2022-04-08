@@ -10,8 +10,7 @@
     "hero": "Hero-1",
     "position": {"x": 4, "y": -3},
     "skin": [
-      {"key": 1, "value": 2},
-      {"key": 2, "value": 4}
+      {"key": 1, "value": 2}
     ],
     "ability": [
       {
