@@ -15,8 +15,8 @@
     "ability": [
       {
         "properties": [
-           {"key": 0, "value": 3},
-           {"key": 2, "value": 1.5},
+           {"key": 0, "value": 3.5},
+           {"key": 2, "value": 0.5},
            {"key": 3, "value": 3},
            {"key": 5, "value": 9}
         ]
