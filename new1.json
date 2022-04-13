@@ -1,0 +1,207 @@
+{
+  "landscape": {
+    "terrain": "Terrain-1",
+    "size": 7
+  },
+  "units": [
+    
+  ],
+  "player": {
+    "hero": "Hero-1",
+    "position": {"x": 4, "y": -3},
+    "skin": [
+      {"key": 1, "value": 2},
+      {"key": 2, "value": 10}
+    ],
+    "ability": [
+      {
+        "properties": [
+           {"key": 0, "value": 3},
+           {"key": 2, "value": 3},
+           {"key": 3, "value": 3},
+           {"key": 5, "value": 9}
+        ]
+      }
+    ],
+    "item": {
+      "title": "Item-H-1",
+      "rarity": 0,
+      "power": [
+        {
+          "properties": [
+             {"key": 0, "value": 3.5},
+             {"key": 2, "value": 1},
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
+          ]
+        }
+      ],
+      "super": [
+        {
+          "properties": [
+             {"key": 0, "value": 3},
+             {"key": 2, "value": 3},
+             {"key": 3, "value": 3},
+             {"key": 5, "value": 9}
+          ]
+        }
+      ]
+    }
+  },
+  "inventory": [
+    {
+      "id": "Item-1",
+      "title": "Item-1",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ],
+      "super": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 3},
+            {"key": 5, "value": 9}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-2",
+      "title": "Item-2",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 3},
+            {"key": 5, "value": 1},
+            {"key": 6, "value": 4}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-3",
+      "title": "Item-3",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-4",
+      "title": "Item-4",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-5",
+      "title": "Item-5",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-2",
+      "title": "Item-2",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 3},
+            {"key": 5, "value": 1},
+            {"key": 6, "value": 4}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-3",
+      "title": "Item-3",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-4",
+      "title": "Item-4",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    },
+    {
+      "id": "Item-5",
+      "title": "Item-5",
+      "rarity": 0,
+      "power": [
+        {
+         "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+            {"key": 3, "value": 12},
+            {"key": 4, "value": 15},
+            {"key": 5, "value": 1}
+         ]
+        }
+      ]
+    }
+  ]
+}
