@@ -106,7 +106,7 @@
       "power": [
         {
          "properties": [
-            {"key": 0, "value": 3},
+            {"key": 0, "value": 4},
             {"key": 2, "value": 3},
            
             {"key": 3, "value": 30},
@@ -124,7 +124,7 @@
       "power": [
         {
          "properties": [
-            {"key": 0, "value": 3},
+            {"key": 0, "value": 5},
             {"key": 2, "value": 3},
            
             {"key": 3, "value": 2},
