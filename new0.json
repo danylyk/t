@@ -167,6 +167,9 @@
       "power": [
         {
           "properties": [
+            {"key": 3, "value": 1},
+            {"key": 4, "value": 5},
+            
             {"key": 5, "value": 3}
           ]
         }
