@@ -158,7 +158,14 @@
     {
       "id": "Item-6",
       "title": "Item-6",
-      "rarity": 0
+      "rarity": 0,
+      "power": [
+        {
+          "properties": [
+            
+          ]
+        }
+      ]
     },
     {
       "id": "Item-7",
