@@ -163,7 +163,7 @@
       "power": [
         {
           "properties": [
-            
+            {"key": 7, "value": 1}
           ]
         }
       ]
