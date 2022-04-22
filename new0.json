@@ -4,7 +4,22 @@
     "size": 7
   },
   "units": [
-    
+    {
+      "id": "Unit-1",
+      "position": {"x": -4, "y": 0},
+      "power": [
+        {
+          "properties": [
+            {"key": 0, "value": 3},
+            {"key": 2, "value": 3},
+
+            {"key": 6, "value": 7},
+            
+            {"key": 10, "value": 3000},
+          ]
+        }
+      ]
+    }
   ],
   "player": {
     "hero": "Hero-1",
