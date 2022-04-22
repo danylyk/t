@@ -1,0 +1,51 @@
+{
+  "skins": [
+    {
+      "id": "Item-1-1",
+      "image": "Item-1-image-1",
+      "title": "Item-1-title-1"
+    },
+    {
+      "id": "Item-1-2",
+      "image": "Item-1-image-2",
+      "title": "Item-1-title-2"
+    }
+  ],
+  "level": 3,
+  "position": { "x": 0, "y": 0 },
+  "power": {
+    "description": "Description for power of unit-1.",
+    "attributes": [
+      {
+        "title": "Main rocket",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      },
+      {
+        "title": "Small sparks",
+        "properties": [
+          {
+            "title": "Property title",
+            "id": 0,
+            "value": 10
+          },
+          {
+            "title": "Property title",
+            "id": 1,
+            "value": 200
+          }
+        ]
+      }
+    ]
+  },
+}
